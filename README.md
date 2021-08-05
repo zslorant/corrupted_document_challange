@@ -1,4 +1,4 @@
-# corrupted_document_challange
+# corrupted_document_challenge
 
 <b> Problem context</b><br>
 An English document has been corrupted in an unusual manner. Each alphabetic word (no numbers, but
